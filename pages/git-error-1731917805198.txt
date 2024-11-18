@@ -1,2 +1,0 @@
-> git pull --tags origin sasadbek
-fatal: couldn't find remote ref sasadbek
